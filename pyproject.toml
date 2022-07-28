@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "spacy-playground"
+name = "twitter-app"
 version = "0.1.0"
 description = ""
 authors = ["Camilo Ramirez <camilo.ramirez@xing.com>"]
@@ -12,6 +12,9 @@ matplotlib = "^3.5.1"
 spacy = "^3.3.0"
 ipykernel = "^6.13.0"
 scikit-learn = "^1.0.2"
+tweepy = {extras = ["async"], version = "^4.10.0"}
+fastapi = {extras = ["all"], version = "^0.79.0"}
+python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 
