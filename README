@@ -1,0 +1,17 @@
+TODOS:
+
+- Improve the quality of the data
+
+- descritive analysis
+    - average length
+    - word frequency (check my nw notebooks)
+
+- see if it is possible to create a graph from tags:
+
+<!-- https://towardsdatascience.com/building-a-network-of-related-it-skills-cfc6e1827261 -->
+
+- topic modeling and word cloud
+
+<!-- https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools -->
+
+- sentiment analysis with spacy? hugging faces?
